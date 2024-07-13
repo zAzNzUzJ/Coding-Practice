@@ -1,2 +1,4 @@
 # Coding-Practice
-- problemsolving -  codes - python and C 
+- Problemsolving -  codes - python and C
+- Basic - Coding for Practice
+- 
