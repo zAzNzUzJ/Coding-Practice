@@ -1,12 +1,11 @@
-
 # x=int(input())
 # y=int(input())
 
 #Note : The Honey Comb Structure input coloums should be a odd number  such that a complete honey comb structure
 
-#Getting input from the use 
+#Getting input from the use example : 5 7 or 13 21
 
-n=input().split()
+n=input("Enter the input length and Width ").split()
 x=int(n[0])
 y=int(n[1])
 row = x*2 +1 #split a single comb structure array representaion with min -3 row  
